@@ -1,63 +1,26 @@
-<h1 align="center">Ahmet Yaman</h1>
-<p align="center"><strong>Cybersecurity & Computer Science Student</strong></p>
-<p align="center">Understand the system. Build with security in mind.</p>
+# Ahmet Yaman
 
----
+I'm a junior at UA Little Rock studying Cybersecurity and Computer Science, graduating in May 2028. I like building small projects and helping people work through things they find difficult. Alongside school, I've worked in tutoring and now as a Learning Assistant.
 
-I'm a college student exploring how software works, how access is controlled, and how ideas become working projects. My repositories span Python security labs, C++ games and simulations, Assembly exercises, and web development.
+Most of my repositories are coursework, personal projects, or things I've tried with a team. I also use AI tools to help me build and learn.
 
-## 🔎 What I'm exploring
+## A few projects
 
-- **Security foundations:** access policies, permissions, and input validation.
-- **Systems thinking:** algorithms, low-level programming, and program behavior.
-- **Building across layers:** web interfaces, Python services, and hardware-connected prototypes.
+- [MovieMatch](https://github.com/AhmetFYaman/Movie_Match): find movie suggestions from a title or a few preferences, then adjust the results.
+- [Two-Player Minesweeper](https://github.com/AhmetFYaman/CPP-Dev/tree/main/projects/2%20Player%20Mine%20Sweeper): a C++ game where two people take turns on the same board.
+- [MediKiosk](https://github.com/AhmetFYaman/Hackathon): a team hackathon idea for a hospital intake kiosk. I worked on the web app; the full system is still incomplete and was not tested for medical use.
+- [Starship Mission Control](https://github.com/AhmetFYaman/CPP-Dev/tree/main/projects/Starship-Mission-Control): a terminal program for managing ships, missions, and saved records.
 
-## Selected projects
+There are also smaller [Python exercises](https://github.com/AhmetFYaman/Python), [assembly programs](https://github.com/AhmetFYaman/Assembly), [access-control coursework](https://github.com/AhmetFYaman/Access-Control), and [web projects](https://github.com/AhmetFYaman/Web-Dev).
 
-### 🔐 [Access Control Lab](https://github.com/AhmetFYaman/Access-Control)
-Python exercises exploring file permissions and attribute-based access control. The file manager uses a CSV-backed policy table with read, read/write, and no-access permissions, plus user and policy management.
+## Get in touch
 
-`Python` · `Access control` · `Policy validation`  
-**Focus:** making authorization rules explicit in an educational lab.
+I'm interested in internship opportunities in cybersecurity, software development, data analysis, and related areas.
 
-### 🩺 [MediKiosk — Hackathon Prototype](https://github.com/AhmetFYaman/Hackathon)
-A collaborative triage-kiosk prototype connecting a Next.js interface, a Python/FastAPI service, and Raspberry Pi / Jetson components. My commits include the kiosk integration, a short-video processing flow, monitoring UI, and documentation updates.
-
-`TypeScript` · `Next.js` · `Python` · `FastAPI`  
-**Context:** a team hackathon project, maintained here in a fork; an experimental prototype.
-
-### 🛠️ [C++ Projects & Algorithms](https://github.com/AhmetFYaman/CPP-Dev)
-A collection of programming exercises and projects, including two-player Minesweeper, AI-Robot Duel, sensor exercises, and Starship Mission Control.
-
-`C++` · `Algorithms` · `Games & simulations`  
-**Focus:** strengthening problem-solving and program structure through hands-on projects.
-
-### ⚙️ [Assembly Projects](https://github.com/AhmetFYaman/Assembly)
-Low-level programming exercises including a guessing game, arithmetic routines, and a turn-based RPG.
-
-`Assembly` · `Control flow` · `Low-level programming`  
-**Focus:** understanding what happens beneath higher-level code.
-
-## Languages & tools in my projects
-
-**Core:** Python · C++ · Assembly  
-**Web:** TypeScript · HTML · CSS · Next.js  
-**Project tooling:** Git · GitHub · FastAPI
-
-<details>
-<summary><strong>More from the workbench</strong></summary>
-
-- [Python exercises](https://github.com/AhmetFYaman/Python): Sudoku validation, number-system conversion, and fraction precision.
-- [Web development](https://github.com/AhmetFYaman/Web-Dev): HTML/CSS coursework, layout experiments, and a telescope-themed project. [View the site](https://ahmetfyaman.github.io/Web-Dev/).
-
-</details>
-
-## 🐍 Commit. Learn. Repeat.
+[Portfolio](https://ahmetyaman.site) · [LinkedIn](https://www.linkedin.com/in/ahmet-yaman-05312b309/) · [Email](mailto:ahmet.f.yaman@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetFYaman/AhmetFYaman/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetFYaman/AhmetFYaman/main/assets/github-snake.svg" />
   <img alt="An animated snake moves through my GitHub contribution graph." src="https://raw.githubusercontent.com/AhmetFYaman/AhmetFYaman/main/assets/github-snake.svg" width="100%" />
 </picture>
-
-<p align="center"><sub>A little arcade energy for the learning journey.</sub></p>
