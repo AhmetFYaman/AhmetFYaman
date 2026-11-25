@@ -6,30 +6,12 @@ I’m a junior at UA Little Rock double majoring in Cybersecurity and Computer S
 
 ## A few things I’ve built
 
-- **MovieMatch** is a team project that suggests movies from a title or a few preferences. You can adjust what matters to you and see the matches change. [Try MovieMatch](https://www.ahmetyaman.site/movie-match) · [MovieMatch code](https://github.com/AhmetFYaman/Movie_Match)
+- **MovieMatch** is a team project for finding something to watch. [Try MovieMatch with a favorite movie](https://www.ahmetyaman.site/movie-match), then adjust your preferences to see how the matches change. [MovieMatch code](https://github.com/AhmetFYaman/Movie_Match)
 - **Two-Player Minesweeper** is a local C++ game where two people take turns on the same board. [Minesweeper code](https://github.com/AhmetFYaman/CPP-Dev/tree/main/projects/2%20Player%20Mine%20Sweeper)
 - **MediKiosk** was a team hackathon project. I worked on the web app for our unfinished hospital intake kiosk prototype. [MediKiosk code](https://github.com/AhmetFYaman/Hackathon)
 - **Starship Mission Control** is a terminal program for managing ships, missions, and saved records. [Starship code](https://github.com/AhmetFYaman/CPP-Dev/tree/main/projects/Starship-Mission-Control)
 
 My coursework includes [Python](https://github.com/AhmetFYaman/Python), [MIPS assembly](https://github.com/AhmetFYaman/Assembly), [access control](https://github.com/AhmetFYaman/Access-Control), and [web development](https://github.com/AhmetFYaman/Web-Dev).
-
-<details>
-<summary>Play one quick Minesweeper move</summary>
-
-```text
-[1] [A] [B]
-[F] [?] [?]
-```
-
-The `1` touches exactly one mine. I’ve already marked it with `F`. Which covered square can you safely open, `A` or `B`?
-
-<details>
-<summary>Reveal the answer</summary>
-
-**A is safe.** It touches the `1`, and the flag accounts for that clue’s only mine. `B` is too far from the `1` for that clue to tell you what’s there.
-
-</details>
-</details>
 
 ## Get in touch
 
